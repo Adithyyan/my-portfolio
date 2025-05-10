@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Home from '../layouts/home.vue';
+
+const meta = {
+  title: 'adithyan-portfolio | Home',
+  description: "Transforming Tourism with the Power of GenAI",
+};
+---
+
+<Layout meta={meta}>
+  <Home client:visible />
+</Layout>

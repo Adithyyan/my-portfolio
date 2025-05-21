@@ -1,5 +1,5 @@
 <template lang="pug">
-nav(class="flex items-center justify-between px-16 md:px-56 py-12 relative")
+nav(class="bg-white flex items-center justify-between px-16 md:px-56 py-12 relative")
   a(href="/" class="text-2xl md:text-4xl") Adithyan MP
 
   button(class="md:hidden text-4xl z-50" @click="isOpen = !isOpen") 

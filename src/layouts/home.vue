@@ -2,7 +2,7 @@
 Toast(:toastMsg='toastMsg')
 
 section(class='sm:h-screen py-16 sm:py-28 px-10 md:px-20 bg-white flex flex-col md:flex-row items-center justify-center gap-16')
-  img(class='w-44 h-44 md:w-96 md:h-96 rounded-full object-cover shadow-lg' src='img/profile-pic.png' alt='Profile')
+  img(class='w-44 h-44 md:w-96 md:h-96 rounded-full object-cover shadow-lg' src='img/11.png' alt='Profile')
   div(class='text-center md:text-center space-y-2 sm:space-y-4 max-w-xl')
     p(class='text-gray-600 text-lg') Hello, I'm
     h1(class='text-4xl md:text-5xl font-bold') Adithyan MP
@@ -23,7 +23,7 @@ section(id="about" class='bg-white py-28 px-6 md:px-20 flex flex-col items-cente
   h2(class='mt-2 sm:mt-4 text-4xl md:text-5xl font-bold mb-3 sm:mb-20') About Me
 
   div(class='flex flex-col md:flex-row items-center gap-10 sm:gap-20')
-    img(src='img/about-pic.png' alt='Profile' class='w-44 sm:w-96 h-44 sm:h-96 object-cover rounded-3xl shadow-lg')
+    img(src='img/33.png' alt='Profile' class='w-44 sm:w-96 h-44 sm:h-96 object-cover rounded-3xl shadow-lg')
 
     div(class='space-y-6 max-w-2xl')
       div(class='flex flex-row text-center md:text-center gap-6 justify-center md:justify-start')
